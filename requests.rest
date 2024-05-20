@@ -1,0 +1,8 @@
+POST http://localhost:4000/update-personal-details 
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NGExYTAzYmM1MWI0MzM2ZTc4OGEyYyIsImlhdCI6MTcxNjEzMjM1NX0.anni8QjJiO8SshH5tCJhD2pW4G1AGnypjsPOPMmTzZc
+
+{
+    "preference":"Veg"
+    
+}
